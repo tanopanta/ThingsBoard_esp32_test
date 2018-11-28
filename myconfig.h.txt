@@ -1,0 +1,7 @@
+// wifi
+const char* ssid          = "";
+const char* password      = "";
+
+//thingsboard
+const char* key           = "TOKEN HEAR";
+const char* address       = "example.com";
